@@ -68,12 +68,14 @@
 
 
 
-<!---------- Reviewa Section ----------->
+<!---------- Review Section ----------->
 <section class="reviews">
+    <h1 class="heading-title">Client Reviews</h1>
+
     <div class="swiper reviews-slider">
         <div class="swiper-wrapper">
 
-            <div class="swiper-slider slide">
+            <div class="swiper-slide slide">
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -87,7 +89,7 @@
                 <img src="images/pic-1.jpg" alt="" style="width:10%; height:auto;">
             </div>
 
-            <div class="swiper-slider slide">
+            <div class="swiper-slide slide">
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -99,7 +101,7 @@
                 <img src="images/pic-2.jpg" alt="" style="width:10%; height:auto;">
             </div>
 
-            <div class="swiper-slider slide">
+            <div class="swiper-slide slide">
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -112,7 +114,7 @@
                 <img src="images/pic-3.jpg" alt="" style="width:10%; height:auto;">
             </div>
 
-            <div class="swiper-slider slide">
+            <div class="swiper-slide slide">
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -126,7 +128,7 @@
                 <img src="images/pic-4.jpg" alt="" style="width:10%; height:auto;">
             </div>
 
-            <div class="swiper-slider slide">
+            <div class="swiper-slide slide">
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -139,7 +141,7 @@
                 <img src="images/pic-5.jpg" alt="" style="width:10%; height:auto;">
             </div>
 
-            <div class="swiper-slider slide">
+            <div class="swiper-slide slide">
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -149,7 +151,7 @@
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae, neque.</p>
                 <h3>Palesa Moloi</h3>
                 <span>traveler</span>
-                <img src="images/pic-6.jpg" alt="" style="width:10%; height:auto;">
+                <img src="images/pic-6.jpg" alt="" >
             </div>
 
         </div>
